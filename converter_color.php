@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>색상변환~</title>
+	<title>색상변환~~!~~!</title>
 	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
 	
 	<script>
